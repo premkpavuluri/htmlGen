@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  width: 1280px;
+  font-size: 30px;
+  margin: 20px auto;
+  font-family: impact;
+}
+
+.block {
+  width: 720px auto;
+  height: 720px;
+  background-color: antiquewhite;
+  text-align: center;
+}
